@@ -1,2 +1,2 @@
-# sleepingpanda.github.io
+# sleep.moe
 Just a basic bio
